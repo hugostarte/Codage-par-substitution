@@ -1,0 +1,40 @@
+body{
+background-image: url('https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg');
+background-size: 100%;
+font-family: 'Roboto', sans-serif;
+}
+ 
+h1 {
+	text-align: center;
+	font-family: 'Coiny', cursive;
+}
+h4{
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+#bloc{
+	margin-left: 35%;
+	margin-right: 35%;
+	background-color: rgba(255,255,255, 0.4);
+	border-radius: 5px;
+	padding:25px;
+	margin-top: 5%;
+	text-align: center;
+}
+#erreur{
+	color:#7a0505;
+}
+input{
+	width:70px;
+	background-color:#ab851966;
+	border-radius:5px;
+	border:0;
+	color:black;
+}
+button{
+	width:70px;
+	background-color:#ab851966;
+	border-radius:5px;
+	border:1px solid #9898129e;
+}
